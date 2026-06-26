@@ -2,56 +2,36 @@
 
 Welcome to the Norfolk Southern Heritage Collection.
 
-This exhibit showcases the complete Norfolk Southern Heritage locomotive fleet documented by the TrainsForever Archive Museum. Locomotives are organized by road number for easy navigation and future updates.
+This exhibit showcases the complete Norfolk Southern Heritage locomotive fleet documented by the TrainsForever Archive Museum.
+
+Locomotives are organized by road number. Click any locomotive below to enter its individual museum exhibit.
 
 ⸻
 
-# 🚂 NS 1065 – Savannah & Atlanta
+🚂 Heritage Locomotive Roster
 
-Welcome to the Savannah & Atlanta Heritage Exhibit.
+* 🚂 NS 1065 – Savannah & Atlanta
+* 🚂 NS 1066 – New York Central
+* 🚂 NS 1067 – Reading
+* 🚂 NS 1068 – Erie
+* 🚂 NS 1069 – Virginian
+* 🚂 NS 1070 – Wabash
+* 🚂 NS 1071 – Central of Georgia
+* 🚂 NS 1072 – Illinois Terminal
+* 🚂 NS 1073 – Penn Central
+* 🚂 NS 1074 – Delaware, Lackawanna & Western
+* 🚂 NS 1080 – Delaware & Hudson
+* 🚂 NS 4851 – Tennessee, Alabama & Georgia (TAG)
+* 🚂 NS 8098 – Conrail
+* 🚂 NS 8099 – Southern Railway
+* 🚂 NS 8100 – Nickel Plate Road
+* 🚂 NS 8101 – Central of Georgia
+* 🚂 NS 8102 – Pennsylvania Railroad
+* 🚂 NS 8103 – Norfolk & Western
+* 🚂 NS 8104 – Lehigh Valley
+* 🚂 NS 8105 – Interstate Railroad
+* 🚂 NS 8114 – Norfolk Southern Railway (Original)
 
----
+⸻
 
-## 📸 Museum Record
-
-5 Documented Catches
-
----
-
-## 🎯 Museum Status
-
-🟢 Complete
-
----
-
-## 🎥 Latest YouTube Video
-
-Coming Soon
-
----
-
-## 📷 Featured Photograph
-
-Coming Soon
-
----
-
-## 🤝 Railfan Companions
-
-Coming Soon
-
----
-
-## 📅 Latest Documented Catch
-
-Coming Soon
-
----
-
-## 📝 Curator's Notes
-
-Coming Soon
-
----
-
-⬅️ [Back to Norfolk Southern Heritage Collection](norfolk-southern-heritage.md)
+🚧 Additional locomotive exhibits are continually expanded as new catches, videos, photographs, and stories are documented.
