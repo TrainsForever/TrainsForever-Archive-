@@ -30,7 +30,7 @@ Welcome to the Savannah & Atlanta Heritage Exhibit.
 
 ## 📷 Featured Photograph
 
-*Coming Soon*
+![](94D94722-6BA8-4081-BF90-30DBEB473421.png)
 
 ---
 
