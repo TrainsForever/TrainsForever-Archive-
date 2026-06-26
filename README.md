@@ -74,3 +74,22 @@ The TrainsForever Archive Museum is organized into exhibits, each documenting a 
 ---
 
 **The TrainsForever Archive Museum is a living collection. Every exhibit is continually expanded as new locomotives are photographed and documented.**
+
+
+🏛️ TrainsForever Archive Museum
+
+⬇️
+
+Museum Standards
+
+⬇️
+
+Museum Exhibits
+
+⬇️
+
+About the Museum
+
+⬇️
+
+🚂 Norfolk Southern Heritage Collection
