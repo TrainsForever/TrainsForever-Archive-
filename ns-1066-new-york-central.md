@@ -46,27 +46,25 @@ Documented Catches: 7
 
 🎥 Best YouTube Video
 
-Coming Soon
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l3jNXv0qDI8?si=Kku7WkLrtV8Ro1QY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ⸻
 
 📷 Featured Photograph
 
-
+![](IMG_8507.png)
 
 ⸻
 
 🤝 Railfan Companions
 
-💙 Alex
-
-💜 Connor
+ Alex, Connor
 
 ⸻
 
 📅 Latest Documented Catch
 
-Coming Soon
+December, 2025
 
 ⸻
 
