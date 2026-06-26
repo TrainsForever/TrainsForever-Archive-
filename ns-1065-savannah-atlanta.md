@@ -6,7 +6,7 @@ Welcome to the Savannah & Atlanta Heritage Exhibit.
 
 ## 📸 Museum Record
 
-**5 Documented Catches**
+** 6 Documented Catches**
 
 ---
 
@@ -36,13 +36,13 @@ Welcome to the Savannah & Atlanta Heritage Exhibit.
 
 ## 🤝 Railfan Companions
 
-*Coming Soon*
+Alex, Jacob, Connor 
 
 ---
 
 ## 📅 Latest Documented Catch
 
-*Coming Soon*
+October 2024
 
 ---
 
