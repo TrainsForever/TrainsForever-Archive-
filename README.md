@@ -46,4 +46,31 @@ Museum Exhibits
 
 🎥 Video Library
 
-https://github.com/TrainsForever/TrainsForever-Archive- where do i put it?
+## Museum Exhibits
+
+The TrainsForever Archive Museum is organized into exhibits, each documenting a different part of my railfan journey. Every exhibit continues to grow as new locomotives are photographed, videos are created, and stories are added.
+
+### 🚂 Heritage Collections
+- Norfolk Southern Heritage Collection
+- CSX Heritage Collection
+- Union Pacific Heritage Collection
+- Canadian National Heritage Collection
+- Canadian Pacific Military Collection
+
+### 🚆 Additional Exhibits
+- Steam Collection
+- Amtrak Collection
+- Special Interest Locomotives
+- Rare Consists
+- Smaller Railroads
+
+### 📖 Museum Features
+- Statistics Hall
+- Current Hunt
+- Stories & Memories
+- Video Library
+- Photo Gallery
+
+---
+
+**The TrainsForever Archive Museum is a living collection. Every exhibit is continually expanded as new locomotives are photographed and documented.**
