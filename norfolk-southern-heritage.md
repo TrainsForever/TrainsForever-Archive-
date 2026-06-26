@@ -10,7 +10,7 @@ Locomotives are organized by road number. Click any locomotive below to enter it
 
 🚂 Heritage Locomotive Roster
 
-* 🚂 NS 1065 – Savannah & Atlanta
+- [🚂 NS 1065 – Savannah & Atlanta](ns-1065-savannah-atlanta.md)
 * 🚂 NS 1066 – New York Central
 * 🚂 NS 1067 – Reading
 * 🚂 NS 1068 – Erie
