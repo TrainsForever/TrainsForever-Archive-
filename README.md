@@ -1,5 +1,5 @@
 # TrainsForever-Archive
-The official TransForever archive museum!
+The Official TransForever Archive Museum!
 TrainsForever Archive Museum
 
 Preserving a lifetime of railfan history.
