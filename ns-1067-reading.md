@@ -23,10 +23,9 @@ This exhibit preserves my personal history with NS 1067, documenting every catch
 
 📸 **Documented Catches:** 13
 
-🚂 **Leading Catches:** N/A until further notice 
+🚂 **Leading Catches:** Verifying..
 
-🚃 **Trailing Catches:** N/A until
-further notice 
+🚃 **Trailing Catches:** Verifying..
 
 🎥 **Archived Videos:** 4
 
