@@ -30,9 +30,9 @@ Documented Catches: 7
 
 📸 Documented Catches: 7
 
-🚂 Leading Catches: 7
+🚂 Leading Catches: 6
 
-🚃 Trailing Catches: 0
+🚃 Trailing Catches: 1
 
 🎥 Archived Videos: 4
 
@@ -70,7 +70,7 @@ December, 2025
 
 📝 Curator’s Notes
 
-NS 1066 has become one of my most frequently documented Norfolk Southern Heritage Units. All seven of my documented encounters have been leading catches, making this locomotive one of the most rewarding heritage units in my collection. As I continue documenting NS 1066, this exhibit will grow with additional photographs, videos, locations, and memories.
+NS 1066 has become one of my most frequently documented Norfolk Southern Heritage Unit! most of my documented encounters have been leading catches, making this locomotive one of the most rewarding heritage units in my collection. As I continue documenting NS 1066, this exhibit will grow with additional photographs, videos, locations, and memories.
 
 ⸻
 
