@@ -35,3 +35,11 @@ further notice
 📍 **Documented Locations:** Updating...
 
 🤝 **Railfan Companions:** Alex
+
+
+
+## 📝 Curator's Notes
+
+NS 1067 is currently my most documented Norfolk Southern Heritage Unit, with 13 documented catches. As additional photographs, videos, and memorable encounters are archived, this exhibit will continue to grow as part of the TrainsForever Archive Museum.
+
+⬅️ [Back to Norfolk Southern Heritage Collection](norfolk-southern-heritage.md)
