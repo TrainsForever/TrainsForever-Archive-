@@ -40,9 +40,11 @@ Welcome to the Savannah & Atlanta Heritage Exhibit.
 
 ---
 
-## 🎥 Best YouTube Video
+🎥 Featured YouTube Video
 
-![](https://youtu.be/zICZFHd_c1M)
+🎬 Watch on YouTube: [🎬 NS 1065 – Savannah & Atlanta Featured Video](https://youtu.be/zICZFHd_c1M)
+
+This featured video documents one of my encounters with NS 1065 – Savannah & Atlanta and has been selected for preservation in the TrainsForever Archive Museum as a representative recording of this heritage unit.
 
 ## 📸 Featured Photograph
 
