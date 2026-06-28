@@ -22,7 +22,7 @@ This exhibit preserves my personal history with NS 1068, documenting every catch
 
 ## 📸 Featured Photograph
 
-![NS 1068 – Erie] 
+![NS 1068 – Erie](IMG_AE7D291F-AB41-47E0-AD84-D6D34C886930.jpeg)
 
 
 *Featured Photograph — NS 1068 – Erie during my ride aboard NS 268 from Chicago, Illinois, to Elkhart, Indiana with Conductor Alex. This photograph commemorates one of my most memorable experiences with the Erie Heritage Unit. Photo by: Alex, @Alex W's Trains
