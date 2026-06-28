@@ -37,10 +37,9 @@ This exhibit preserves my personal history with NS 1067, documenting every catch
 
 ---
 
-## 📸 Featured Photograph
+## 📸 Featured Photographs
 
 ![NS 1067 – Reading](2B300FD7-DBFF-4118-A1AF-5ED023671BEB.png)
-## 📸 Featured Photograph
 
 ![NS 1067 – Reading](8F4E2628-D912-495E-B4B6-51C4448B8E50.png)
 
