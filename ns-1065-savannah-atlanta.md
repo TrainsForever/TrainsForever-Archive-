@@ -48,7 +48,12 @@ Welcome to the Savannah & Atlanta Heritage Exhibit.
 
 ## 📷 Featured Photograph
 
-![](94D94722-6BA8-4081-BF90-30DBEB473421.png)
+## 📸 Featured Photograph
+
+![NS 1065 – Savannah & Atlanta](0E4E5EBD-7176-4CA3-959B-39402AF75207.png)
+
+*Savannah & Atlanta Heritage Unit (NS 1065) leading through Goshen Indiana. 
+Photograph by TrainsForever.*
 
 ---
 
