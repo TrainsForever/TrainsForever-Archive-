@@ -39,7 +39,7 @@ This exhibit preserves my personal history with NS 1067, documenting every catch
 
 ## 📸 Featured Photograph
 
-![NS 1067 – Reading](featured-1067.jpg)
+![NS 1067 – Reading](2B300FD7-DBFF-4118-A1AF-5ED023671BEB.png)
 
 📷 Photographer: TrainsForever
 
