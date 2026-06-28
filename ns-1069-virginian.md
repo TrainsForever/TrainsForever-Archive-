@@ -21,5 +21,13 @@ Norfolk Southern Heritage Unit **NS 1069** honors the legacy of the Virginian Ra
 🤝 **Railfan Companions:** 2
 
 
+## 📝 Curator's Notes
+
+NS 1069 – Virginian is one of Norfolk Southern's 20 original Heritage Units, honoring the historic Virginian Railway. This exhibit preserves my documented encounters with the locomotive through photographs, videos, and personal records.
+
+At the time of this exhibit's publication, I have documented **4 catches**, including **2 leading catches** and **2 trailing catches**. As new photographs, videos, and encounters are recorded, this exhibit will continue to grow as part of the TrainsForever Archive Museum.
+
+Every documented catch helps preserve the history of this heritage unit for future railfans to enjoy.
+
 
 
