@@ -52,7 +52,7 @@ Documented Catches: 7
 
 📷 Featured Photograph
 
-![](IMG_8507.png)
+[![NS 1066](IMG_8507.png)](IMG_8507.png)
 
 ⸻
 
