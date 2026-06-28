@@ -5,7 +5,7 @@ Preserving a lifetime of railfan history.
 
 Welcome to the official TrainsForever archive.
 
-Since the 2010s, I’ve documented heritage locomotives, commemorative locomotives, steam locomotives, rare consists, and railroad history through photography and video. i started ny youtube channel in 2017. the musuem started building in late jume, 2026. 
+Since the 2010s, I’ve documented heritage locomotives, commemorative locomotives, steam locomotives, rare consists, and railroad history through photography and video. I started ny youtube channel in 2017. the musuem started building in late jume, 2026. 
 
 This museum is a living archive that continues to grow with every new catch.
 
