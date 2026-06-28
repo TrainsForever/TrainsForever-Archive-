@@ -55,3 +55,9 @@ This featured video documents one of my encounters with **NS 1068 – Erie** and
 - 🧡 Alex (Spotted on Train)
 - 💛 Me & Alex on the train Together
 - 🩵 My Specials (me on the train)
+
+## 📝 Curator's Notes
+
+NS 1068 is one of the most recognizable locomotives in the Norfolk Southern Heritage Fleet. As additional photographs, videos, and documented catches are added, this exhibit will continue to grow as part of the TrainsForever Archive Museum.
+
+⬅️ [Back to Norfolk Southern Heritage Collection](norfolk-southern-heritage.md)
