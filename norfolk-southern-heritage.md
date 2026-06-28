@@ -19,7 +19,7 @@ Locomotives are organized by road number. Click any locomotive below to enter it
 * 🚂 NS 1071 – Central of Georgia
 * 🚂 NS 1072 – Illinois Terminal
 * 🚂 NS 1073 – Penn Central
-* 🚂 NS 1074 – Delaware, Lackawanna & Western
+* 🚂 NS 1074 – Lackawanna
 * 🚂 NS 1080 – Delaware & Hudson
 * 🚂 NS 4851 – Tennessee, Alabama & Georgia (TAG)
 * 🚂 NS 8098 – Conrail
