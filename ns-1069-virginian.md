@@ -22,7 +22,7 @@ Norfolk Southern Heritage Unit **NS 1069** honors the legacy of the Virginian Ra
 
 ## 📸 Featured Photograph
 
-![NS 1069 – Virginian](YOUR-PHOTO-FILENAME.png)
+![NS 1069 – Virginian](IMG_8547.jpeg)
 
 *Featured Photograph — NS 1069 – Virginian. This image has been selected for preservation in the TrainsForever Archive Museum as a representative photograph of the Virginian Heritage Unit. Photograph by TrainsForever.*
 
