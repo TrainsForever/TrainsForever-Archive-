@@ -8,11 +8,11 @@ Norfolk Southern Heritage Unit **NS 1069** honors the legacy of the Virginian Ra
 
 📸 **Documented Catches:** 4
 
-🚂 **Leading Catches:** Updating...
+🚂 **Leading Catches:** 2
 
-🚃 **Trailing Catches:** Updating...
+🚃 **Trailing Catches:** 2
 
-🎥 **Archived Videos:** Updating...
+🎥 **Archived Videos:** 4
 
 📷 **Archived Photographs:** Updating...
 
