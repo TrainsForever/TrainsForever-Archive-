@@ -44,10 +44,11 @@ Documented Catches: 7
 
 ⸻
 
-🎥 Best YouTube Video
+🎥 Featured YouTube Video
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l3jNXv0qDI8?si=Kku7WkLrtV8Ro1QY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+🎬 Watch on YouTube: https://youtu.be/zICZFHd_c1M
 
+This featured video documents one of my encounters with NS 1066 – New York Central and has been selected for preservation in the TrainsForever Archive Museum. 
 ⸻
 
 📷 Featured Photograph
