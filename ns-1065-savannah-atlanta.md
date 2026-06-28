@@ -44,10 +44,6 @@ Welcome to the Savannah & Atlanta Heritage Exhibit.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mAFE_tJrXtw?si=7_qt_EfYBGwb5QAl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
----
-
-## 📷 Featured Photograph
-
 ## 📸 Featured Photograph
 
 ![NS 1065 – Savannah & Atlanta](0E4E5EBD-7176-4CA3-959B-39402AF75207.png)
