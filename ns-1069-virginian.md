@@ -38,7 +38,8 @@ Watch on YouTube here!
 [The Virginian NS 1069](https://youtu.be/4wLlpzzT_P0?is=2HjRwDQGiAQhaBSO)
 
 
-
+## 📅 Latest Documented Catch
+April 2025
 
 
 ## 📝 Curator's Notes
