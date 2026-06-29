@@ -65,7 +65,7 @@ Photograph by TrainsForever.*
 
 ## 📅 Latest Documented Catch
 
-October 2024
+October 2024, NS Marion Branch, Goshen Indiana. 
 
 ---
 
