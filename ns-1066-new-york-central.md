@@ -64,7 +64,7 @@ This featured video documents one of my encounters with NS 1066 – New York Cen
 
 📅 Latest Documented Catch
 
-December, 2025
+December, 2025. NS Chicago Line. Elkhart yard East entrance. (North Freight)
 
 ⸻
 
