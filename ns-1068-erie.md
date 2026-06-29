@@ -58,6 +58,18 @@ This featured video documents one of my encounters with **NS 1068 – Erie** and
 - 💛 Me & Alex on the train Together
 - 🩵 My Specials (me on the train)
 
+🚂 Last Documented Catch
+
+Locomotive: NS 1068
+Date: December 2025
+Railroad: Norfolk Southern
+Subdivision: NS Chicago Line
+Location: Elkhart Yard (West Side)
+
+Notes:
+Last documented catch of NS 1068 as of December 2025. Awaiting the next sighting.
+
+
 ## 📝 Curator's Notes
 
 NS 1068 is one of the most recognizable locomotives in the Norfolk Southern Heritage Fleet. As additional photographs, videos, and documented catches are added, this exhibit will continue to grow as part of the TrainsForever Archive Museum.
