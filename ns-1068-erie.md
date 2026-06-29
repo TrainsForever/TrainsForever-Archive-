@@ -58,7 +58,7 @@ This featured video documents one of my encounters with **NS 1068 – Erie** and
 - 💛 Me & Alex on the train Together
 - 🩵 My Specials (me on the train)
 
-🚂 Last Documented Catch
+## 🚂 Last Documented Catch
 
 Locomotive: NS 1068
 Date: December 2025
