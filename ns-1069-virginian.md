@@ -24,6 +24,9 @@ catches documented: 4
 
 🤝 **Railfan Companions:** 2
 
+💙 Alex
+🤍 Jacob
+
 ## 📸 Featured Photograph
 
 ![NS 1069 – Virginian](IMG_8549.png)
