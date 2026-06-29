@@ -68,7 +68,7 @@ This featured video documents one of my encounters with NS 1070 – Wabash and h
 
 📸 Featured Photograph
 
-![IMG_CFA7D54D-A780-4CEE-AFB4-1D1A402CA52F.jpeg]
+![](IMG_CFA7D54D-A780-4CEE-AFB4-1D1A402CA52F.jpeg)
 
 Featured Photograph — NS 1070 – Wabash. This image has been selected for preservation in the TrainsForever Archive Museum as a representative photograph of the Wabash Heritage Unit. Photograph by TrainsForever.
 
