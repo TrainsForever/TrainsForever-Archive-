@@ -15,7 +15,7 @@ Locomotives are organized by road number. Click any locomotive below to enter it
 - [🚂 NS 1067 – Reading](ns-1067-reading.md)
 * [🚂 NS 1068 – Erie](ns-1068-erie.md)
 * [🚂 NS 1069 – Virginian](ns-1069-virginian.md)
-* 🚂 NS 1070 – Wabash
+* [🚂 NS 1070 – Wabash](ns-1070-wabash.md)
 * 🚂 NS 1071 – Central of Georgia
 * 🚂 NS 1072 – Illinois Terminal
 * 🚂 NS 1073 – Penn Central
